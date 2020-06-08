@@ -1,4 +1,4 @@
-# A Driven/Damped Pendulum
+# A Driven-Damped Pendulum
 A simuilation of a damped/driven pendulum which provides a phase diagram of the motion along with a Poincaré Map. There is also a script to generate Bifurcation Diagrams using the same simulation engine.
 
 Try running the driven_pendulum.py script without any arguments to get an idea of how the pendulum works. Use the --help flag for an explanation of which optional arguments you can pass in to change the parameters.
